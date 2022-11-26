@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GwqxitYXNIJIzvFAI1jfUWb69TETmoZ3OaE7BilN1gc=",
+  "Hash": "NhhpFfNErTmjhUBzuPh0n+4vhveT1X9QxKAfZ9IQ654=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/.DS_Store",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
     {
       "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/css/site.css",
       "SourceId": "WebApplication1",
@@ -51,12 +68,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg",
+      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/.DS_Store",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg",
+      "RelativePath": "Images/.DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg"
+      "OriginalItemSpec": "wwwroot/Images/.DS_Store"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg",
+      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/11e90f82-50a4-44cc-a6c7-e08ad7a1d2cb.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg",
+      "RelativePath": "Images/11e90f82-50a4-44cc-a6c7-e08ad7a1d2cb.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg"
+      "OriginalItemSpec": "wwwroot/Images/11e90f82-50a4-44cc-a6c7-e08ad7a1d2cb.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg",
+      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/a0a26dba-f68c-489e-9d16-70b93f162138.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg",
+      "RelativePath": "Images/a0a26dba-f68c-489e-9d16-70b93f162138.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg"
+      "OriginalItemSpec": "wwwroot/Images/a0a26dba-f68c-489e-9d16-70b93f162138.jpg"
     },
     {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg",
+      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/d0f0a09d-e625-4876-b825-6176903c2b6c.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg",
+      "RelativePath": "Images/d0f0a09d-e625-4876-b825-6176903c2b6c.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,41 +133,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg"
-    },
-    {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg"
-    },
-    {
-      "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg"
+      "OriginalItemSpec": "wwwroot/Images/d0f0a09d-e625-4876-b825-6176903c2b6c.jpg"
     },
     {
       "Identity": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/js/site.js",

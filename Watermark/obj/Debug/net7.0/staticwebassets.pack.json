@@ -1,28 +1,24 @@
 {
   "Files": [
     {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg",
-      "PackagePath": "staticwebassets/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg"
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg",
-      "PackagePath": "staticwebassets/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg"
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/.DS_Store",
+      "PackagePath": "staticwebassets/Images/.DS_Store"
     },
     {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg",
-      "PackagePath": "staticwebassets/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg"
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/11e90f82-50a4-44cc-a6c7-e08ad7a1d2cb.jpg",
+      "PackagePath": "staticwebassets/Images/11e90f82-50a4-44cc-a6c7-e08ad7a1d2cb.jpg"
     },
     {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg",
-      "PackagePath": "staticwebassets/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg"
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/a0a26dba-f68c-489e-9d16-70b93f162138.jpg",
+      "PackagePath": "staticwebassets/Images/a0a26dba-f68c-489e-9d16-70b93f162138.jpg"
     },
     {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg",
-      "PackagePath": "staticwebassets/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg"
-    },
-    {
-      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg",
-      "PackagePath": "staticwebassets/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg"
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/d0f0a09d-e625-4876-b825-6176903c2b6c.jpg",
+      "PackagePath": "staticwebassets/Images/d0f0a09d-e625-4876-b825-6176903c2b6c.jpg"
     },
     {
       "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/css/site.css",

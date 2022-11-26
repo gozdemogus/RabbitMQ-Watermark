@@ -6,12 +6,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
-using RabbitMQ.Watermark.Models;
-using RabbitMQ.Watermark.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using RabbitMQ.Watermark.BackgroundServices;
+using RabbitMQ.Watermark.Models;
+using RabbitMQ.Watermark.Services;
 
 namespace WebApplication1
 {
@@ -35,6 +36,7 @@ namespace WebApplication1
             {
                 options.UseInMemoryDatabase(databaseName: "productDb");
             });
+            services.AddHostedService<ImageWatermarkProcessBackgroundService>();
             services.AddControllersWithViews();
         }
 
@@ -62,7 +64,7 @@ namespace WebApplication1
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Products}/{action=Index}/{id?}");
             });
         }
     }

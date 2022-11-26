@@ -16,7 +16,6 @@ namespace RabbitMQ.Watermark.Controllers
     {
         private readonly AppDbContext _context;
         private readonly RabbitMQPublisher _rabbitMQPublisher;
-
         public ProductsController(AppDbContext context, RabbitMQPublisher rabbitMQPublisher)
         {
             _context = context;
@@ -26,13 +25,13 @@ namespace RabbitMQ.Watermark.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
-              return View(await _context.Products.ToListAsync());
+            return View(await _context.Products.ToListAsync());
         }
 
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null || _context.Products == null)
+            if (id == null)
             {
                 return NotFound();
             }
@@ -58,8 +57,9 @@ namespace RabbitMQ.Watermark.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Price,Stock,ImageName")] Product product,IFormFile ImageFile)
+        public async Task<IActionResult> Create([Bind("Id,Name,Price,Stock,ImageName")] Product product, IFormFile ImageFile)
         {
+
             if (!ModelState.IsValid) return View(product);
 
 
@@ -68,7 +68,7 @@ namespace RabbitMQ.Watermark.Controllers
                 var randomImageName = Guid.NewGuid() + Path.GetExtension(ImageFile.FileName);
 
 
-                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Images", randomImageName);
+                var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", randomImageName);
 
 
                 await using FileStream stream = new(path, FileMode.Create);
@@ -82,6 +82,9 @@ namespace RabbitMQ.Watermark.Controllers
                 product.ImageName = randomImageName;
             }
 
+
+
+
             _context.Add(product);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
@@ -92,7 +95,7 @@ namespace RabbitMQ.Watermark.Controllers
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null || _context.Products == null)
+            if (id == null)
             {
                 return NotFound();
             }
@@ -110,7 +113,7 @@ namespace RabbitMQ.Watermark.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Price,Stock,PictrueUrl")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Price,Stock,PictureUrl")] Product product)
         {
             if (id != product.Id)
             {
@@ -143,7 +146,7 @@ namespace RabbitMQ.Watermark.Controllers
         // GET: Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null || _context.Products == null)
+            if (id == null)
             {
                 return NotFound();
             }
@@ -163,23 +166,15 @@ namespace RabbitMQ.Watermark.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            if (_context.Products == null)
-            {
-                return Problem("Entity set 'AppDbContext.Products'  is null.");
-            }
             var product = await _context.Products.FindAsync(id);
-            if (product != null)
-            {
-                _context.Products.Remove(product);
-            }
-            
+            _context.Products.Remove(product);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool ProductExists(int id)
         {
-          return _context.Products.Any(e => e.Id == id);
+            return _context.Products.Any(e => e.Id == id);
         }
     }
 }

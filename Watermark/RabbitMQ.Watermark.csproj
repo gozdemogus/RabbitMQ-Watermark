@@ -18,6 +18,7 @@
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="Services\" />
+    <None Remove="BackgroundServices\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
@@ -39,8 +40,11 @@
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="wwwroot\Images\" />
+    <Folder Include="BackgroundServices\" />
+    <Folder Include="wwwroot\Images\watermarks\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\Images\" />
+    <Content Remove="wwwroot\Images\watermarks\" />
   </ItemGroup>
 </Project>
