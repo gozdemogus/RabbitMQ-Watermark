@@ -1,32 +1,21 @@
-﻿<Properties StartupConfiguration="{6C015F86-8E18-4BC9-8DD3-D321A4F4915C}|WebApplication1">
-  <MonoDevelop.Ide.ItemProperties.RabbitMQ.Watermark PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+﻿<Properties>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Views/Products/Edit.cshtml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RabbitMQ.Watermark.sln">
     <Files>
-      <File FileName="WebApplication1/Views/Products/Edit.cshtml" Line="35" Column="19" />
+      <File FileName="../RabbitMQ.Watermark.sln" Line="6" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RabbitMQ.Watermark" expanded="True">
-            <Node name="RabbitMQ.Watermark" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Products" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="RabbitMQ.Watermark" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RabbitMQ.Watermark PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>

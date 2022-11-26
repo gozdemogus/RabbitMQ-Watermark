@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg",
+      "PackagePath": "staticwebassets/Images/03c31245-76ce-4ee8-b5c7-e7c8200eb19b.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg",
+      "PackagePath": "staticwebassets/Images/0487cfa4-fd7a-4da1-ab5b-6058e1f87ae3.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg",
+      "PackagePath": "staticwebassets/Images/36dba2b2-f345-4e0b-aa28-9036f6a93f39.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg",
+      "PackagePath": "staticwebassets/Images/831315db-8b9e-4dc0-88ca-ee1cff7075f0.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg",
+      "PackagePath": "staticwebassets/Images/a3ab7709-523e-4f3f-a07e-f055af923871.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg",
+      "PackagePath": "staticwebassets/Images/e3849572-c256-4b5c-be4a-3e6f2b61ba1c.jpeg"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/gozdemogus/Desktop/Watermark/Watermark/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
