@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gozdemogus/Desktop/Watermark/Watermark/RabbitMQ.Watermark.csproj": {}
+    "/Users/gozdemogus/Projects/Watermark/Watermark/RabbitMQ.Watermark.csproj": {}
   },
   "projects": {
-    "/Users/gozdemogus/Desktop/Watermark/Watermark/RabbitMQ.Watermark.csproj": {
+    "/Users/gozdemogus/Projects/Watermark/Watermark/RabbitMQ.Watermark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gozdemogus/Desktop/Watermark/Watermark/RabbitMQ.Watermark.csproj",
+        "projectUniqueName": "/Users/gozdemogus/Projects/Watermark/Watermark/RabbitMQ.Watermark.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/Users/gozdemogus/Desktop/Watermark/Watermark/RabbitMQ.Watermark.csproj",
+        "projectPath": "/Users/gozdemogus/Projects/Watermark/Watermark/RabbitMQ.Watermark.csproj",
         "packagesPath": "/Users/gozdemogus/.nuget/packages/",
-        "outputPath": "/Users/gozdemogus/Desktop/Watermark/Watermark/obj/",
+        "outputPath": "/Users/gozdemogus/Projects/Watermark/Watermark/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gozdemogus/.nuget/NuGet/NuGet.Config"

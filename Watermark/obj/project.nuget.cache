@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntuipn0Kz8+WShVBIXtTgnv8npRolwz8YquM38CeTg/nDydZIXqVz+Q8cgmX3qkKr1PPsn7QZuB+x+WDLV3LpQ==",
+  "dgSpecHash": "v8rtlv7l5U/+XtciK3M8htUbPPvhU7TsIdXrnJlkzfpvizT+BuNzVnINr2xxIZ5BiCOnI5ESKseR/F+4Z49c2g==",
   "success": true,
-  "projectFilePath": "/Users/gozdemogus/Desktop/Watermark/Watermark/RabbitMQ.Watermark.csproj",
+  "projectFilePath": "/Users/gozdemogus/Projects/Watermark/Watermark/RabbitMQ.Watermark.csproj",
   "expectedPackageFiles": [
     "/Users/gozdemogus/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/gozdemogus/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
